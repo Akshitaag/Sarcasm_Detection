@@ -1,1 +1,5 @@
-# Sarcasm_Detection
+Code repository for paper : “Did you really mean what you said?” : Sarcasm Detection in Hindi-English Code-Mixed Data using Bilingual Word Embeddings
+
+Link to paper : https://www.aclweb.org/anthology/2020.wnut-1.2/
+
+Abstract : With the increased use of social media platforms by people across the world, many new interesting NLP problems have come into existence. One such being the detection of sarcasm in the social media texts. We present a corpus of tweets for training custom word embeddings and a Hinglish dataset labelled for sarcasm detection. We propose a deep learning based approach to address the issue of sarcasm detection in Hindi-English code mixed tweets using bilingual word embeddings derived from FastText and Word2Vec approaches. We experimented with various deep learning models, including CNNs, LSTMs, Bi-directional LSTMs (with and without attention). We were able to outperform all state-of-the-art performances with our deep learning models, with attention based Bi-directional LSTMs giving the best performance exhibiting an accuracy of 78.49%.
